@@ -1,1 +1,1 @@
-include ':app', ':myliberay'
+include ':app', ':myliberay', ':myjar'
